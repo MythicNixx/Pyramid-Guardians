@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PG-V1-Assets/Scenes/MainMenu.unity
+    guid: 036b111e000e1f746a8a607e09da1fbb
+  - enabled: 1
+    path: Assets/PG-V1-Assets/Scenes/TutorialLevel.unity
+    guid: cde58664e7cc51b438b233398c603647
+  - enabled: 1
+    path: Assets/PG-V1-Assets/Scenes/LevelSelect.unity
+    guid: 0031dc022949cad42a7df979ebcc656c
+  - enabled: 1
+    path: Assets/PG-V1-Assets/Scenes/Level_01.unity
+    guid: 2798927bd7833f14fb5328bbae4c5e78
   m_configObjects: {}
